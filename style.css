@@ -2,7 +2,7 @@
  
 body{ margin:0; background:#222; }
 ul {
-    height:18.875em; width:34em;
+    height:18.875em; width:66em;
   margin:5em auto; padding:3em 0 0 3em; position:relative; 
   border:1px solid #160801; border-radius:1em; 
   background:-webkit-gradient(linear, right bottom, left top, color-stop(0%,rgba(0,0,0,0.3)), color-stop(100%,rgba(0,0,0,0))), url('https://f.cl.ly/items/2q1f3t0C3R1b0g081w3n/vwood.png');
